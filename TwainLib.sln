@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwainLib", "TwainLib.csproj", "{908F1FE0-BDB6-47AD-85A2-7868B7EEE871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908F1FE0-BDB6-47AD-85A2-7868B7EEE871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908F1FE0-BDB6-47AD-85A2-7868B7EEE871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908F1FE0-BDB6-47AD-85A2-7868B7EEE871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908F1FE0-BDB6-47AD-85A2-7868B7EEE871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B81DB5-D7B4-479C-91B4-FCD525783652}
+	EndGlobalSection
+EndGlobal
